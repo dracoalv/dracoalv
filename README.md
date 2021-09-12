@@ -1,6 +1,9 @@
 ## Marcelo Alves
  
- O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis. **- José de Alencar** <br>
+ O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis. **- José de Alencar** 
+ <br>
+ #
+ <br>
  <div style="display: inline_block">
   <a href="https://github.com/dracoalv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dracoalv&layout=compact&langs_count=7&theme=shades-of-purple"/>
